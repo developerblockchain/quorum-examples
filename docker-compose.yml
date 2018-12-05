@@ -142,15 +142,6 @@ x-tx-manager-def:
                 },
                 {
                     "url": "http://txmanager4:9000"
-                },
-                {
-                    "url": "http://txmanager5:9000"
-                },
-                {
-                    "url": "http://txmanager6:9000"
-                },
-                {
-                    "url": "http://txmanager7:9000"
                 }
             ],
             "keys": {
@@ -235,15 +226,6 @@ x-tx-manager-def:
              },
              {
                  "url": "http://txmanager4:9000"
-             },
-             {
-                 "url": "http://txmanager5:9000"
-             },
-             {
-                 "url": "http://txmanager6:9000"
-             },
-             {
-                 "url": "http://txmanager7:9000"
              }
           ],
           "keys": {
